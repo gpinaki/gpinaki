@@ -1,11 +1,11 @@
 <p align="center">
   <h1 align="center">Pinaki Guha</h1>
-  <h3 align="center">Enterprise Data & AI Architecture | Cloud Transformation | Strategic Leadership</h3>
+  <h3 align="center">Enterprise Data & AI Architecture | Cloud Transformation | Generative AI</h3>
 </p>
 
 # 👋 Welcome to My Digital Portfolio
 
-I'm a strategic data leader with 20+ years of experience architecting enterprise-scale data and AI solutions. My expertise lies in transforming business challenges into scalable, innovative technical solutions that drive measurable impact.
+I'm a pricipal software enginner with 20+ years of experience architecting enterprise-scale data and Generative AI solutions. My expertise lies in transforming business challenges into scalable, innovative technical solutions that drive measurable impact.
 
 ## 🎯 Strategic Focus Areas
 
@@ -19,8 +19,8 @@ I'm a strategic data leader with 20+ years of experience architecting enterprise
 ### Multi-Agent Orchestrator Platform
 *For Fortune 500 Pharmaceutical Company*
 - Architected a groundbreaking Generative AI platform enhancing sales productivity
-- Achieved 50% reduction in LLM costs through innovative optimization
-- Accelerated application development speed by 80%
+- Achieved 50% reduction in platform costs through innovative optimization
+- Accelerated application development speed by 80% 
 - Led cross-functional teams of engineers and data scientists
 
 ### Modern Data Lakehouse Transformation
@@ -77,7 +77,7 @@ I'm passionate about mentoring the next generation of data leaders and exploring
 ---
 
 <p align="center">
-<i>"Transforming enterprises through innovative data architecture and AI solutions"</i>
+<i>"Transforming enterprises through innovative data architecture and Generative AI solutions"</i>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gpinaki&color=brightgreen)
