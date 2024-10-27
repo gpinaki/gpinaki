@@ -4,18 +4,15 @@
 </p>
 
 # 👋 Welcome to My Digital Portfolio
-
-I'm a pricipal software enginner with 20+ years of experience architecting enterprise-scale data and Generative AI solutions. My expertise lies in transforming business challenges into scalable, innovative technical solutions that drive measurable impact.
+I'm a principal software engineer with 20+ years of experience architecting enterprise-scale data and Generative AI solutions. My expertise lies in transforming business challenges into scalable, innovative technical solutions that drive measurable impact.
 
 ## 🎯 Strategic Focus Areas
-
 - **Enterprise AI Innovation**: Pioneering multi-agent architectures and LLMOps for Fortune 500 companies
 - **Cloud Transformation**: Leading large-scale migrations to modern data platforms
 - **Data Architecture**: Designing next-generation data ecosystems that power business intelligence
 - **Technical Leadership**: Building and mentoring high-performing engineering teams
 
 ## 🚀 Enterprise Solutions & Innovation
-
 ### Multi-Agent Orchestrator Platform
 *For Fortune 500 Pharmaceutical Company*
 - Architected a groundbreaking Generative AI platform enhancing sales productivity
@@ -32,6 +29,26 @@ I'm a pricipal software enginner with 20+ years of experience architecting enter
 
 ## 💡 Open Source Contributions
 
+### [LLM Observatory](https://github.com/gpinaki/llm-observatory)
+*Enterprise LLM Monitoring & Cost Analysis Platform*
+```yaml
+Core Capabilities:
+- Real-time cost tracking across OpenAI & Anthropic
+- Multi-environment deployment support (Dev/Test/Int/Prod)
+- Advanced performance analytics and monitoring
+- Session-based usage tracking and cost optimization
+- Production-grade async implementation
+```
+```mermaid
+graph TD
+    A[LLM Observatory] --> B[Cost Analysis]
+    A --> C[Performance Monitoring]
+    A --> D[Multi-Provider Support]
+    B --> E[Token-level Tracking]
+    C --> F[Response Metrics]
+    D --> G[OpenAI/Anthropic]
+```
+
 ### [Research Assistant Chatbot](https://github.com/gpinaki/research-assistant-rag)
 *Enterprise-Grade RAG Implementation*
 ```yaml
@@ -43,7 +60,6 @@ Key Features:
 ```
 
 ## 🛠️ Technology Leadership Stack
-
 ### Enterprise Platforms & Architecture
 ```mermaid
 graph LR
@@ -56,28 +72,31 @@ graph LR
 ### Engineering Excellence
 - **Cloud Native**: Kubernetes, Docker, Azure Services
 - **Data Engineering**: Snowflake, Databricks, Azure Synapse
-- **AI/ML Operations**: LangChain, TruLens, OpenAI
+- **AI/ML Operations**: LangChain, TruLens, OpenAI, Anthropic
 - **Enterprise Integration**: Apigee, ServiceNow, Salesforce
+- **LLM Observability**: Cost Analytics, Performance Monitoring, Multi-Environment Management
 
 ## 🎓 Executive Certifications & Education
-
 - AI For Business Leaders (Udacity, 2024)
 - SnowPro Core Certification (2022)
 - Microsoft Certified Azure Developer Associate (2022)
 - Duke University - Big Data and Data Science Program (2019)
 - Bachelor's in Electrical Engineering - IIEST, Kolkata
 
-## 🤝 Let's Connect
+## 🌟 Featured Projects Impact
+```mermaid
+graph TD
+    A[Enterprise Impact] --> B[Cost Optimization]
+    A --> C[Performance]
+    A --> D[Innovation]
+    B --> E[30-50% Cost Reduction]
+    C --> F[80% Speed Improvement]
+    D --> G[Next-Gen AI Solutions]
+```
 
+## 🤝 Let's Connect
 I'm passionate about mentoring the next generation of data leaders and exploring innovative solutions to complex business challenges.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinakiguha/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinaki.guha@gmail.com)
-
----
-
-<p align="center">
-<i>"Transforming enterprises through innovative data architecture and Generative AI solutions"</i>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=gpinaki&color=brightgreen)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gpinaki)
