@@ -5,7 +5,8 @@
 
 ## 👋 Welcome
 
-Hi, I’m Pinaki — a software and AI architect passionate about building scalable, ethical, and developer-friendly AI systems.My expertise lies in transforming business challenges into scalable, innovative technical solutions that drive measurable impact.
+Hi, I’m Pinaki — a software and AI architect passionate about building scalable, ethical, and developer-friendly AI systems. My expertise lies in transforming business challenges into scalable, innovative technical solutions that drive measurable impact.
+
 This GitHub profile hosts my personal projects, experiments, and open-source contributions.
 
 ## ⚠️ Disclaimer
