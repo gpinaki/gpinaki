@@ -3,8 +3,14 @@
   <h3 align="center">Enterprise Data & AI Architecture | Cloud Transformation | Generative AI</h3>
 </p>
 
-# 👋 Welcome to My Digital Portfolio
-I'm a principal software engineer with 20+ years of experience architecting enterprise-scale data and Generative AI solutions. My expertise lies in transforming business challenges into scalable, innovative technical solutions that drive measurable impact.
+## 👋 Welcome
+
+Hi, I’m Pinaki — a software and AI architect passionate about building scalable, ethical, and developer-friendly AI systems.My expertise lies in transforming business challenges into scalable, innovative technical solutions that drive measurable impact.
+This GitHub profile hosts my personal projects, experiments, and open-source contributions.
+
+## ⚠️ Disclaimer
+
+All repositories in this account represent my **personal work**, created independently for learning, research, or open-source sharing. They do **not** reflect the views, technologies, or proprietary implementations of any current or former employer or client. Unless explicitly stated, all code and content is domain-neutral and avoids use of confidential or sensitive information.
 
 ## 🎯 Strategic Focus Areas
 - **Enterprise AI Innovation**: Pioneering multi-agent architectures and LLMOps for Fortune 500 companies
